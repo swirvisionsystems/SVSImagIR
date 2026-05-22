@@ -6,7 +6,7 @@ Repository for the SWIR Vision Systems software suite.
 | Application  | Description |
 | ------------- | ------------- |
 | `SVSImagIR3`  | For use with the Acuros product line from SWIR Vision Systems with the release of Dynamic Non-Uniformity Corrections (DNUCs).<br>This software is not backwards compatible with `SVSImagIR2` (obsolete). |
-| `API_Acuros.zip`  | For use with the Acuros product line from SWIR Vision Systems in conjunction with the eBUS SDK v6.3+.<br>This software is not compatible with prior releases of eBUS SDK and a license must be purchased from Pleora to use it.<br> |
+| `API_Acuros`  | For use with the Acuros product line from SWIR Vision Systems in conjunction with the eBUS SDK v6.3+.<br>This software is not compatible with prior releases of eBUS SDK and a license must be purchased from Pleora to use it.<br> |
 
 
 ## License and Use of Software
