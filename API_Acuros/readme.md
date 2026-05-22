@@ -1,0 +1,1 @@
+To circumvent email filters, _.py_ files have been renamed _.md_. The _Example_Acuros.md_ and _API_Acuros.md_ files simply need to be renamed _<ScriptName>.py_ to work.
